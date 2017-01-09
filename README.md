@@ -1,5 +1,4 @@
 # hello-world
 
 
-I think I did better teaching Calculus to my dog...woof.
-Shadrach learned it though...good dog
+Learning to use github and this is my first README text.  Looking forward to being good at using this program...looks like I will be using it a lot.
